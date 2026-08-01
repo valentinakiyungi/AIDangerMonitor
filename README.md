@@ -98,7 +98,7 @@ This project presents an **AI-powered mobile security and monitoring system** de
 ##  Future Improvements
 
 * Enhanced model accuracy with larger datasets
-* Integration with additional sensors (e.g., IoT devices)
+* Integration with additional sensors such as IoT devices
 * Advanced analytics dashboard
 * Multi-user collaboration features
 
