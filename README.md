@@ -122,6 +122,6 @@ This project is for academic and research purposes but can also be enhanced in t
 
 * Open-source community
 * Academic supervisors and mentors
-* Contributors and testers
+
 
 ---
