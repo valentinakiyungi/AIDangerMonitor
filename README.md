@@ -14,12 +14,12 @@ This project presents an **AI-powered mobile security and monitoring system** de
 
 ##  Key Features
 
- **Real-Time Alerts: Instant notifications for detected suspicious activities
- **Geolocation Tracking: Live location monitoring using map integration
- **AI-Based Detection: Machine learning model identifies abnormal or risky behavior
- **Live Communication: WebSocket-based real-time data exchange
- **Scalable Backend: Designed for performance and extensibility
- **Containerized Deployment: Easy setup and deployment using Docker
+ Real-Time Alerts: Instant notifications for detected suspicious activities
+ Geolocation Tracking: Live location monitoring using map integration
+ AI-Based Detection: Machine learning model identifies abnormal or risky behavior
+ Live Communication: WebSocket-based real-time data exchange
+ Scalable Backend: Designed for performance and extensibility
+ Containerized Deployment: Easy setup and deployment using Docker
 
 ---
 
